@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Inshirah048">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Power+BI+%7C+Jupyter+%7C+scikit-learn&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Engineer;Power+BI+%7C+Jupyter+%7C+scikit-learn&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,8 +17,6 @@ built at the intersection of the two. If you're working on something
 interesting or want to collaborate, feel free to connect.
 
 - 🔭 Currently building: a Python finance tracker, ML classification/regression models, and Power BI dashboards
-- 📫 Reach me: [LinkedIn](your-linkedin-link-here) · your-email-here
-
 ---
 
 ### 🌱 What I'm Focused On
