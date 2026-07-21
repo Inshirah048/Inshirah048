@@ -14,7 +14,7 @@ I'm an undergraduate in **Information and Communication Technology at Rajarata U
 
 My interests lie in **Data Analytics, Machine Learning, and Artificial Intelligence**, where I enjoy exploring real-world problems through data-driven approaches.
 
-I focus on building practical projects that involve:<br>
+I focus on building practical projects that involve:<br><br>
 📊 Data cleaning, analysis, and visualization<br>
 🤖 Machine learning model development<br>
 📈 Interactive dashboards and reporting<br>
