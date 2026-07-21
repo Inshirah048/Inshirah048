@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Fathima Inshirah 👋</h1>
 
-<!--
-**Inshirah048/Inshirah048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Inshirah048">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Power+BI+%7C+Jupyter+%7C+scikit-learn&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+I'm an undergraduate at Rajarata University of Sri Lanka, building
+practical experience in data analysis and machine learning through
+hands-on projects rather than just coursework. I enjoy working across
+the full pipeline — cleaning and exploring data, building models, and
+turning results into dashboards people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to discussing data, machine learning, or anything
+built at the intersection of the two. If you're working on something
+interesting or want to collaborate, feel free to connect.
+
+- 🔭 Currently building: a Python finance tracker, ML classification/regression models, and Power BI dashboards
+- 📫 Reach me: [LinkedIn](your-linkedin-link-here) · your-email-here
+
+---
+
+### 🌱 What I'm Focused On
+
+- **Practical, End-to-End Projects:** Turning raw data into working tools — from a Python CLI app to interactive dashboards.
+- **Data-Driven Decision Making:** Applying analysis and modeling to real domains like e-commerce and healthcare.
+- **Continuous, Hands-On Learning:** Building depth in Python, machine learning, and data visualization one project at a time.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [PyVault](https://github.com/Inshirah048/pyvault) | A Python personal finance tracker demonstrating OOP, custom exceptions, decorators, and testing |
+| [Dashboard Projects](https://github.com/Inshirah048/dashboard-projects) | Power BI dashboards analyzing e-commerce sales and hospital ER data |
+| [ML Projects](https://github.com/Inshirah048/ml-projects) | Regression, classification, and ensemble models (XGBoost, Random Forest) built in Jupyter |
+
+### 🔧 Languages & Tools
+
+Python · Pandas · scikit-learn · XGBoost · Power BI · SQL · Jupyter Notebook
+
+### 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/fathima-inshirah
+- Email: fathimainshira048@gmail.com
