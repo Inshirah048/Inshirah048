@@ -66,7 +66,7 @@ Interactive Power BI dashboards built using real datasets:
 - Hospital Emergency Room Analytics
 - Data visualization and insights
 
-🔗 [View Projects](https://github.com/Inshirah048/dashboard-projects)
+🔗 [View Projects](https://github.com/Inshirah048/Dashboards)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Implementation of ML workflows including:
 - Regression models
 - Ensemble learning
 
-🔗 [View Projects](https://github.com/Inshirah048/ml-projects)
+🔗 [View Projects](https://github.com/Inshirah048/ML-projects)
 
 </td>
 
