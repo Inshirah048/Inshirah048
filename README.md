@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/Inshirah048">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Engineer;Power+BI+%7C+Jupyter+%7C+scikit-learn&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;AI+Engineer &font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 I'm an undergraduate at Rajarata University of Sri Lanka, building
 practical experience in data analysis and machine learning through
 hands-on projects rather than just coursework. I enjoy working across
-the full pipeline — cleaning and exploring data, building models, and
+the full pipeline cleaning and exploring data, building models, and
 turning results into dashboards people can actually use.
 
 I'm always open to discussing data, machine learning, or anything
