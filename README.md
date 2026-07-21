@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathima Inshirah</h1>
 
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | ICT Undergraduate</h3>
+<h3 align="center">Data Analyst |Data Scientist | ML/AI Engineer| </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Model+Building;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 <br>
@@ -20,7 +20,7 @@ I focus on building practical projects that involve:
 📈 Interactive dashboards and reporting
 🐍 Python-based applications and automation
 
-I believe in learning by building — experimenting with technologies, solving problems, and continuously improving my technical skills.
+I believe in learning by building and experimenting with technologies, solving problems, and continuously improving my technical skills.
 
 <br>
 
