@@ -2,8 +2,7 @@
 <h3 align="center">Data Analyst | Machine Learning Enthusiast | ICT Undergraduate</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fathima-inshirah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:fathimainshira048@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
