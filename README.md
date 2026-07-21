@@ -9,8 +9,6 @@
 ---
 
 
----
-
 ## 🎓 About Me
 
 I'm an undergraduate at **Rajarata University of Sri Lanka**, pursuing a **BICT** degree. My interests lie in Data Analytics, Machine Learning, and Artificial Intelligence, where I enjoy exploring real-world problems through data-driven approaches. I focus on building practical projects involving data cleaning, analysis, visualization, and machine learning model development. I believe in learning by building — experimenting with technologies, solving problems, and continuously improving my technical skills.
