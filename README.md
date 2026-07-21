@@ -1,162 +1,120 @@
 <h1 align="center">Hi 👋, I'm Fathima Inshirah</h1>
 
 <h3 align="center">
-Data Analyst | Machine Learning Enthusiast | AI & Data Science Undergraduate
+Data Analyst | Data Scientist | AI/Ml Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an **Information and Communication Technology undergraduate at Rajarata University of Sri Lanka**, passionate about transforming data into meaningful insights and intelligent solutions.
+I'm an undergraduate in **Information and Communication Technology at Rajarata University of Sri Lanka**, passionate about transforming data into meaningful insights and intelligent solutions.
 
-My focus areas include **Data Analytics, Machine Learning, and Artificial Intelligence**, where I work on solving real-world problems through data-driven approaches.
+My interests lie in **Data Analytics, Machine Learning, and Artificial Intelligence**, where I enjoy exploring real-world problems through data-driven approaches.
 
-I enjoy working across the complete data workflow
+I focus on building practical projects that involve: <br>
 
-Data collection and preprocessing  
-Exploratory data analysis and visualization  
-Machine learning model development  
-Dashboard creation and insight generation  
+- 📊 Data cleaning, analysis, and visualization <br>
+- 🤖 Machine learning model development<br>
+- 📈 Interactive dashboards and reporting<br>
+- 🐍 Python-based applications and automation<br>
 
-I believe in **learning through building**, continuously improving my technical skills by developing practical projects and experimenting with new technologies.
-
----
-
-## 🚀 What I'm Currently Exploring
-
-- 📊 Advanced data analysis and visualization techniques
-- 🤖 Machine learning algorithms and model optimization
-- 🐍 Python applications for automation and data processing
-- 📈 Business intelligence dashboards using Power BI
-- 🧠 AI-based image classification and research applications
+I believe in learning by building and experimenting with technologies, solving problems, and continuously improving my technical skills.
 
 ---
 
-# 🌟 Featured Projects
+## 🌱 Areas I'm Exploring
 
-## 💰 PyVault — Personal Finance Tracker
-
-A Python-based finance management application designed to demonstrate software development practices.
-
-**Key Features:**
-- Object-Oriented Programming principles
-- Custom exception handling
-- Decorator implementation
-- Automated testing using PyTest
-
-🔗 Repository: [PyVault](https://github.com/Inshirah048)
-
+- Machine Learning & Predictive Analytics
+- Deep Learning and Computer Vision
+- Data Visualization and Business Intelligence
+- SQL Database Management
+- Building End-to-End Data Projects
 
 ---
 
-## 📊 Data Analytics Dashboard Projects
+# Featured Projects
 
-Interactive dashboards developed to analyze real-world datasets and generate meaningful business insights.
+<table>
+<tr>
+<td width="50%">
 
-**Projects include:**
-- 🛒 E-commerce Sales Analysis
-- 🏥 Hospital Emergency Room Analytics
+### 💰 PyVault - Personal Finance Tracker
 
-**Skills Applied:**
-- Data cleaning
-- Data transformation
-- KPI development
-- Data visualization
+A Python-based finance management application demonstrating:
 
-🔗 Repository: [Dashboard Projects](https://github.com/Inshirah048)
+- Object-Oriented Programming
+- Custom Exceptions
+- Decorators
+- Unit Testing with PyTest
+
+🔗 [View Project](https://github.com/Inshirah048/pyvault)
+
+</td>
+
+<td width="50%">
+
+### 📊 Dashboard Projects
+
+Interactive Power BI dashboards built using real datasets:
+
+- E-commerce Sales Analysis
+- Hospital Emergency Room Analytics
+- Data visualization and insights
+
+🔗 [View Projects](https://github.com/Inshirah048/dashboard-projects)
+
+</td>
+</tr>
 
 
----
+<tr>
 
-## 🤖 Machine Learning Projects
+<td width="50%">
 
-Hands-on implementation of machine learning workflows.
+### 🤖 Machine Learning Projects
 
-**Techniques explored:**
+Implementation of ML workflows including:
+
 - Data preprocessing
 - Feature engineering
 - Classification models
 - Regression models
-- Ensemble learning methods
+- Ensemble learning
 
-🔗 Repository: [ML Projects](https://github.com/Inshirah048)
+🔗 [View Projects](https://github.com/Inshirah048/ml-projects)
+
+</td>
 
 
----
+<td width="50%">
 
-## 🍄 AI-Based Mushroom Identification Research
+###  Mushroom Identification Research
 
-Research project focused on developing an intelligent identification system using machine learning and image recognition techniques.
+Research project focusing on:
 
-**Areas involved:**
-- Computer vision
-- Image classification
-- Feature-based machine learning
-- AI-assisted decision support
+- Image recognition
+- Machine learning classification
+- Morphological feature analysis
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
 # 🛠️ Technical Skills
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Programming & Data Processing
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge)
-
-
-### Data Visualization & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-
-### Databases & Development Tools
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
----
-
-# 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Inshirah048&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inshirah048&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
----
-
-
-
----
-
-<p align="center">
-✨ Turning data into insights, and ideas into solutions.
+⭐ "Learning, building, and turning data into meaningful solutions."
 </p>
