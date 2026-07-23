@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathima Inshirah</h1>
 
 <h3 align="center">
-Data Analyst | Data Scientist | AI/Ml Engineer
+BICT Undergraduate
 </h3>
 
 <p align="center">
