@@ -8,79 +8,91 @@ BICT Undergraduate | Aspiring Data Analyst | Machine Learning Enthusiast
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Data+Projects;Turning+Data+Into+Insights&font=Fira%20Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge">
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=About+Me;Passionate+About+Data+%26+AI;Building+Practical+Technology+Solutions&font=Fira%20Code&center=true&width=500&height=40&color=2E9EF7&pause=1000" />
+</p>
 
 ## 👩‍💻 About Me
 
 I'm an undergraduate in **Information and Communication Technology at Rajarata University of Sri Lanka**, passionate about transforming data into meaningful insights and developing intelligent solutions.
 
-My interests focus on **Data Analytics, Machine Learning, Artificial Intelligence, and Data-driven applications**. I enjoy exploring real-world problems by applying programming, statistical analysis, and machine learning techniques.
+My interests include **Data Analytics, Machine Learning, Artificial Intelligence, and Data-driven applications**. I enjoy solving real-world problems through programming, statistical analysis, visualization, and machine learning techniques.
 
-I focus on building practical projects involving:
+Currently, I focus on building projects involving:
 
-- 📊 Data cleaning, analysis, and visualization  
-- 🤖 Machine learning model development  
-- 📈 Interactive dashboards and business intelligence  
-- 🐍 Python applications and automation  
-- 🗄️ Database design and SQL analytics  
+- 📊 Data analysis and visualization
+- 🤖 Machine learning model development
+- 📈 Business intelligence dashboards
+- 🐍 Python application development
+- 🗄️ Database management and SQL analytics
 
-I believe in learning by building projects, experimenting with technologies, and continuously improving my technical skills.
-
----
-
-## 🌱 Areas I'm Exploring
-
-- Machine Learning & Predictive Analytics
-- Deep Learning and Computer Vision
-- Data Visualization and Business Intelligence
-- SQL Database Management
-- End-to-End Data Science Projects
-- Artificial Intelligence Applications
+I believe in **learning by building projects, experimenting with technologies, and continuously improving my skills.**
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Featured+Projects;Building+Projects+Across+Different+Domains;From+Code+To+Data+Insights&font=Fira%20Code&center=true&width=550&height=40&color=2E9EF7&pause=1000" />
+</p>
 
 # 🚀 Featured Projects
-
----
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🐍 Python Projects
+<h3 align="center">🐍 Python Projects</h3>
 
-A collection of Python-based projects demonstrating programming concepts, software development practices, and problem-solving skills.
+<p align="center">
+Python applications demonstrating programming concepts and software development practices.
+</p>
 
-Projects include:
+<b>Key Areas:</b>
 
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming
 - Exception Handling
 - Decorators
 - File Handling
 - Unit Testing with PyTest
-- Python-based application development
 
-🔗 [View Python Projects](https://github.com/Inshirah048)
+<p align="center">
+<a href="https://github.com/Inshirah048">
+View Repository →
+</a>
+</p>
 
 </td>
 
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📊 Power BI Projects
+<h3 align="center">📊 Power BI Projects</h3>
 
-Interactive dashboards developed using real-world datasets to analyze trends, generate insights, and support data-driven decision making.
+<p align="center">
+Interactive dashboards created to analyze datasets and generate meaningful business insights.
+</p>
 
-Projects include:
+<b>Key Areas:</b>
 
-- E-commerce Sales Analysis
-- Hospital Emergency Room Analytics
-- Data visualization
-- KPI reporting
-- Business intelligence dashboards
+- Data Cleaning
+- Data Visualization
+- KPI Analysis
+- Interactive Reports
+- Business Intelligence
 
-🔗 [View Power BI Projects](https://github.com/Inshirah048)
+<p align="center">
+<a href="https://github.com/Inshirah048">
+View Repository →
+</a>
+</p>
 
 </td>
 
@@ -89,76 +101,106 @@ Projects include:
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 Machine Learning Projects
+<h3 align="center">🤖 Machine Learning Projects</h3>
 
-Implementation of machine learning workflows using different algorithms and datasets.
+<p align="center">
+Machine learning workflows focused on predictive modeling and data-driven solutions.
+</p>
 
-Projects include:
+<b>Key Areas:</b>
 
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Classification models
-- Regression models
-- Ensemble learning
-- Model evaluation and comparison
+- Data Preprocessing
+- Exploratory Data Analysis
+- Feature Engineering
+- Model Training
+- Model Evaluation
 
-Algorithms explored:
+<b>Algorithms:</b>
 
-- Linear Regression
-- Logistic Regression
-- Decision Trees
+- Regression Models
 - Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
+- SVM
+- KNN
 - XGBoost
 
-🔗 [View ML Projects](https://github.com/Inshirah048)
+<p align="center">
+<a href="https://github.com/Inshirah048">
+View Repository →
+</a>
+</p>
 
 </td>
 
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🗄️ SQL Database Projects
+<h3 align="center">🗄️ SQL Database Projects</h3>
 
-Database projects focusing on SQL queries, database management, and data analysis.
+<p align="center">
+Database solutions focusing on data management, querying, and analysis.
+</p>
 
-Projects include:
+<b>Key Areas:</b>
 
-- Database design
-- Table relationships
-- Complex SQL queries
+- Database Design
+- Table Relationships
+- Complex Queries
 - Joins
-- Stored procedures
-- Aggregations
-- Data analysis using SQL
+- Stored Procedures
 
-🔗 [View SQL Projects](https://github.com/Inshirah048)
+<p align="center">
+<a href="https://github.com/Inshirah048">
+View Repository →
+</a>
+</p>
 
 </td>
 
 </tr>
 </table>
 
----
-
-# 🛠️ Technical Skills
-
-### Languages & Tools:
-
-<p align="left">
-
-Python • SQL • Java • JavaScript • React • Node.js  
-Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
-Power BI • MySQL • PostgreSQL • Git  
-
-</p>
 
 ---
 
 <p align="center">
-⭐ "Learning, building, and turning data into meaningful solutions."
+  <img src="https://readme-typing-svg.demolab.com/?lines=Technical+Skills;Tools+%26+Technologies+I+Work+With&font=Fira%20Code&center=true&width=500&height=40&color=2E9EF7&pause=1000" />
+</p>
+
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+<p align="center">
+
+Python • Java • JavaScript • SQL
+
+</p>
+
+
+### Data Science & AI
+
+<p align="center">
+
+Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
+
+</p>
+
+
+### Development & Databases
+
+<p align="center">
+
+React • Node.js • MySQL • PostgreSQL • Git • Power BI
+
+</p>
+
+
+---
+
+<p align="center">
+
+⭐ Learning • Building • Transforming Data Into Meaningful Solutions
+
 </p>
