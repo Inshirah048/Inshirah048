@@ -5,7 +5,7 @@ BICT Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&width=100%&height=30&color=2E9EF7" width="100%">
 </p>
 
 <p align="center">
