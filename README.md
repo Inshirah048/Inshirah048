@@ -9,7 +9,7 @@ BICT Undergraduate
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=300" />
+<img src="data:image/svg+xml,%3Csvg width='100%25' height='30' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop stop-color='%232E9EF7' offset='0'/%3E%3Cstop stop-color='%232E9EF7' offset='0.5'/%3E%3Cstop stop-color='%23ffffff' offset='0.5'/%3E%3Cstop stop-color='%232E9EF7' offset='1'/%3E%3CanimateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2s' repeatCount='indefinite'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='3' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
 </p>
 
 ## 👩‍💻 About Me
