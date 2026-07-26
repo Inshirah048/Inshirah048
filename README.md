@@ -9,7 +9,7 @@ BICT Undergraduate
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 👩‍💻 About Me
