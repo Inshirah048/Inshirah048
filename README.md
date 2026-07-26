@@ -62,10 +62,7 @@ Python-based applications demonstrating programming concepts and software develo
 
 <br><br>
 
-<p align="center">
-🔗 [View Project](https://github.com/Inshirah048/pyvault)
-</a>
-</p>
+🔗 [View Project](https://github.com/Inshirah048/Python_projects)
 
 </td>
 
@@ -90,15 +87,11 @@ Interactive dashboards developed using real-world datasets to analyze trends and
 
 <br><br>
 
-<p align="center">
-🔗 [View Project](https://github.com/Inshirah048/pyvault)
-</a>
-</p>
+🔗 [View Projects](https://github.com/Inshirah048/Dashboards)
 
 </td>
 
 </tr>
-
 
 <tr>
 
@@ -124,10 +117,7 @@ Machine learning workflows using different algorithms and datasets for predictiv
 
 <br>
 
-<p align="center">
-🔗 [View Project](https://github.com/Inshirah048/pyvault)
-</a>
-</p>
+🔗 [View Projects](https://github.com/Inshirah048/ML-projects)
 
 </td>
 
@@ -153,10 +143,7 @@ Database projects focusing on SQL queries, database management, and data analysi
 
 <br>
 
-<p align="center">
-🔗 [View Project](https://github.com/Inshirah048/pyvault)
-</a>
-</p>
+🔗 [View Project](https://github.com/Inshirah048/SQL_Projects)
 
 </td>
 
