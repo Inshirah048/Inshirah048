@@ -5,7 +5,7 @@ BICT Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&width=100%&height=30&color=2E9EF7" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line.gif" width="100%">
 </p>
 
 <p align="center">
