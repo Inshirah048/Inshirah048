@@ -5,12 +5,10 @@ BICT Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line.gif" width="100%">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
-<p align="center">
-<img src="data:image/svg+xml,%3Csvg width='100%25' height='30' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop stop-color='%232E9EF7' offset='0'/%3E%3Cstop stop-color='%232E9EF7' offset='0.5'/%3E%3Cstop stop-color='%23ffffff' offset='0.5'/%3E%3Cstop stop-color='%232E9EF7' offset='1'/%3E%3CanimateTransform attributeName='gradientTransform' type='translate' from='-1 0' to='1 0' dur='2s' repeatCount='indefinite'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='3' fill='url(%23g)'/%3E%3C/svg%3E" width="100%">
-</p>
+---
 
 ## 👩‍💻 About Me
 
@@ -27,9 +25,7 @@ I focus on building practical projects that involve: <br>
 
 I believe in learning by building and experimenting with technologies, solving problems, and continuously improving my technical skills.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
+---
 
 ## 🌱 Areas I'm Exploring
 
@@ -39,9 +35,8 @@ I believe in learning by building and experimenting with technologies, solving p
 - SQL Database Management
 - Building End-to-End Data Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
+---
+
 # Featured Projects
 
 <table>
@@ -68,8 +63,7 @@ Python-based applications demonstrating programming concepts and software develo
 <br><br>
 
 <p align="center">
-<a href="https://github.com/Inshirah048">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github">
+🔗 [View Project](https://github.com/Inshirah048/pyvault)
 </a>
 </p>
 
@@ -97,8 +91,7 @@ Interactive dashboards developed using real-world datasets to analyze trends and
 <br><br>
 
 <p align="center">
-<a href="https://github.com/Inshirah048">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github">
+🔗 [View Project](https://github.com/Inshirah048/pyvault)
 </a>
 </p>
 
@@ -132,8 +125,7 @@ Machine learning workflows using different algorithms and datasets for predictiv
 <br>
 
 <p align="center">
-<a href="https://github.com/Inshirah048">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github">
+🔗 [View Project](https://github.com/Inshirah048/pyvault)
 </a>
 </p>
 
@@ -162,8 +154,7 @@ Database projects focusing on SQL queries, database management, and data analysi
 <br>
 
 <p align="center">
-<a href="https://github.com/Inshirah048">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github">
+🔗 [View Project](https://github.com/Inshirah048/pyvault)
 </a>
 </p>
 
@@ -172,10 +163,7 @@ Database projects focusing on SQL queries, database management, and data analysi
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
+---
 # 🛠️ Technical Skills
 
 <h3 align="left">Languages and Tools:</h3>
