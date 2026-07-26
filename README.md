@@ -85,7 +85,8 @@ Interactive dashboards developed using real-world datasets to analyze trends and
 <li>Business Intelligence Dashboards</li>
 </ul>
 
-<br><br>
+<br>
+<br>
 
 🔗 [View Projects](https://github.com/Inshirah048/Dashboards)
 
@@ -115,7 +116,8 @@ Machine learning workflows using different algorithms and datasets for predictiv
 <li>Model Evaluation</li>
 </ul>
 
-<br> <br>
+<br> 
+<br>
 
 🔗 [View Projects](https://github.com/Inshirah048/ML-projects)
 
