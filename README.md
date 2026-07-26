@@ -8,9 +8,8 @@ BICT Undergraduate
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%E2%80%A2+Machine+Learning+%E2%80%A2+Artificial+Intelligence&font=Fira%20Code&center=true&width=700&height=30&color=2E9EF7&pause=800" />
+<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=300" />
 </p>
 
 ## 👩‍💻 About Me
