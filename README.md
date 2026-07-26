@@ -8,8 +8,9 @@ BICT Undergraduate
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Projects&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&pause=1000&size=22" />
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 ## 👩‍💻 About Me
@@ -28,7 +29,7 @@ I focus on building practical projects that involve: <br>
 I believe in learning by building and experimenting with technologies, solving problems, and continuously improving my technical skills.
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 ## 🌱 Areas I'm Exploring
@@ -40,9 +41,8 @@ I believe in learning by building and experimenting with technologies, solving p
 - Building End-to-End Data Projects
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
 # Featured Projects
 
 <table>
@@ -152,12 +152,11 @@ Database projects focusing on SQL queries, database management, and data analysi
 <p><b>Projects include:</b></p>
 
 <ul>
-<li>Database Design</li>
 <li>Table Relationships</li>
-<li>Complex SQL Queries</li>
-<li>Joins</li>
-<li>Stored Procedures</li>
 <li>Aggregations</li>
+<li>Joins</li>
+<li>Window Functions</li>  
+<li>Stored Procedures</li>
 <li>Data Analysis using SQL</li>
 </ul>
 
@@ -175,9 +174,8 @@ Database projects focusing on SQL queries, database management, and data analysi
 </table>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
 
 # 🛠️ Technical Skills
 
