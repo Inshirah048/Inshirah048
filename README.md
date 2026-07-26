@@ -10,7 +10,7 @@ BICT Undergraduate
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%E2%80%A2+Machine+Learning+%E2%80%A2+Artificial+Intelligence&font=Fira%20Code&center=true&width=700&height=30&color=2E9EF7&pause=800" />
 </p>
 
 ## 👩‍💻 About Me
