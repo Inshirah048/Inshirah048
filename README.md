@@ -115,7 +115,7 @@ Machine learning workflows using different algorithms and datasets for predictiv
 <li>Model Evaluation</li>
 </ul>
 
-<br>
+<br> <br>
 
 🔗 [View Projects](https://github.com/Inshirah048/ML-projects)
 
