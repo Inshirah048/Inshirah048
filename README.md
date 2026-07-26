@@ -141,7 +141,7 @@ Database projects focusing on SQL queries, database management, and data analysi
 <li>Data Analysis using SQL</li>
 </ul>
 
-<br>
+<br> <br>
 
 🔗 [View Project](https://github.com/Inshirah048/SQL_Projects)
 
