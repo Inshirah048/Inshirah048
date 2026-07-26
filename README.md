@@ -9,7 +9,7 @@ BICT Undergraduate
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=600&height=25&color=2E9EF7&pause=500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
 </p>
 
 ## 👩‍💻 About Me
@@ -28,7 +28,7 @@ I focus on building practical projects that involve: <br>
 I believe in learning by building and experimenting with technologies, solving problems, and continuously improving my technical skills.
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=600&height=25&color=2E9EF7&pause=500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
 </p>
 
 ## 🌱 Areas I'm Exploring
@@ -40,7 +40,7 @@ I believe in learning by building and experimenting with technologies, solving p
 - Building End-to-End Data Projects
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=600&height=25&color=2E9EF7&pause=500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
 </p>
 
 # Featured Projects
@@ -175,7 +175,7 @@ Database projects focusing on SQL queries, database management, and data analysi
 </table>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━&font=Fira%20Code&center=true&width=600&height=25&color=2E9EF7&pause=500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+%7C+Machine+Learning+%7C+Python+Development+%7C+SQL+Analytics&font=Fira%20Code&center=true&width=700&height=25&color=2E9EF7&pause=800" />
 </p>
 
 
